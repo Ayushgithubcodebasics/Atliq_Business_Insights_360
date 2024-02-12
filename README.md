@@ -1,6 +1,7 @@
 # AtliQ Power BI Dashboard
 
 This project showcases a Power BI dashboard that analyzes the performance of AtliQ, a fictional company that sells hardware products. The dashboard covers different aspects of the business, such as finance, sales, supply chain, marketing, and executive overview. The dashboard aims to provide insights and data-driven decision-making for various stakeholders.
+**Project Dashboard Link** - https://app.powerbi.com/view?r=eyJrIjoiZmRiZmQxMDEtYTU5Zi00MDQ1LThmZDEtNTkxMzI1MjVkYzVkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ## Objectives and Achievements
 
